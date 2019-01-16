@@ -44,3 +44,7 @@ https://github.com/alda-lang/alda
 
 This library helps us create music programmatically
 
+### Relevant Links
+
+- [ Two Syntax for Alda](https://github.com/daveyarwood/alda-clj/issues/1)
+
